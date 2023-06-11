@@ -1,4 +1,4 @@
-# ERC20 BREAKDOWN
+# MEGA BREAKDOWN
 
 The purpose of the "Mega" contract is to create a token called "MyToken" (MTK) on the Ethereum blockchain. This token contract incorporates several features and functionalities to manage and control the token ecosystem.
 
